@@ -7,7 +7,8 @@ Sentiment analysis remains one of the key problems that has seen extensive appli
 
 ## The Data Set
 
-The train set contains 7,920 tweets The test set contains 1,953 tweets
+- The train set contains 7,920 tweets 
+- The test set contains 1,953 tweets
 
 ## Data Pre-processing
 
