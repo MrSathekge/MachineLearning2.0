@@ -32,3 +32,6 @@ Models I used in this project:
 - Ridge Classifier
 - Bagging Classifier
 - Gradient Boosting Classifier
+
+## Side Note
+We were free to use any tool, statistical software or machine of our choice, but a comprehensive guide to use the bert-base-uncased and the roberta-base pre-trained transformer models were given. As this was my first attempt, I did not use these pre-trained models.
