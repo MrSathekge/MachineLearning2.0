@@ -35,3 +35,11 @@ Models I used in this project:
 
 ## Side Note
 We were free to use any tool, statistical software or machine of our choice, but a comprehensive guide to use the bert-base-uncased and the roberta-base pre-trained transformer models were given. As this was my first attempt, I did not use these pre-trained models.
+
+## Result
+
+    My Rank: 254
+    Unique Submissions: 1394
+    Registered Contestants: 8162
+    Date: 22/12/2022
+
