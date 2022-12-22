@@ -16,4 +16,19 @@ The train set contains 7,920 tweets The test set contains 1,953 tweets
    - Remove urls
    - Removed punctuations
    - Removed stopwords
+   
+## Approach
 
+My approach was simple, to try out as many models as possible, before trying to tweak or tune hyperparameters.
+
+Models I used in this project:
+- Logistic Regression
+- Support Vector Classifier
+- Random Forest Classifier
+- K Nearest Neighbors
+- Naive Bayes
+- Voting Classifier
+- Stacking Classifier
+- Ridge Classifier
+- Bagging Classifier
+- Gradient Boosting Classifier
